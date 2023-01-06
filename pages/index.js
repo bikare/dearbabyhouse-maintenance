@@ -14,7 +14,7 @@ export default function Home() {
                     <Image src="/dearbaby-logo.svg" layout="fixed" width="150" height="150" />
                     <h4 className="text-3xl text-center md:text-start md:text-4xl font-black text-[#fff]">Web sitemiz çok yakında sizlerle</h4>
                     <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
-                        <a href="#"
+                        <a href="https://www.facebook.com/profile.php?id=100088819404452"  target="_blank"
                            className="text-white hover:text-[#4E1C72] transition ease-in">
                             <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                                 <path fillRule="evenodd"
@@ -22,7 +22,7 @@ export default function Home() {
                                       clipRule="evenodd"/>
                             </svg>
                         </a>
-                        <a href="#"
+                        <a href="https://www.instagram.com/dearbabyhouse/" target="_blank"
                            className="text-white hover:text-[#4E1C72] transition ease-in">
                             <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                                 <path fillRule="evenodd"
@@ -34,9 +34,9 @@ export default function Home() {
                     <p className="flex flex-column gap-4 text-white">
                         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                              xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
                                   d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
                                   d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
                         </svg>
                         <p>Hürriyet Mh. Ayhan Gülcüoğlu Caddesi, No: 4/3C Tire/İzmir</p>
