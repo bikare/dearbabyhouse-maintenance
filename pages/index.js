@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <section className="h-screen bg-[url('/bg-01.png')] bg-cover bg-right bg-bottom">
         <Head>
-            <title>Bakım çalışması..</title>
+            <title>Dear Baby House - Yakında sizlerleyiz..</title>
         </Head>
         <div className="flex flex-col justify-around h-screen px-5">
             <div className="container mx-auto flex flex-col md:flex-row justify-end gap-y-10 gap-x-10 pt-lg-10">
